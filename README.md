@@ -1,6 +1,6 @@
-# my_messanger
+# Simple Messages Generator
 
-A new Flutter project.
+Send And Get a Random Messages App.
 
 ## Getting Started
 
@@ -16,6 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
   -------------------------------------------------------------------
-  Send And Get a Random Messages App
   
   ![SLAYER](https://i.imgur.com/rQkayIP.png)
